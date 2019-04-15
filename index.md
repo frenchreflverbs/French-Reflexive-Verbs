@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Corpus of annotated French reflexive verbs
 
-You can use the [editor on GitHub](https://github.com/frenchreflverbs/annotation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Authors** : Lucie Barque, Marie Candito and Richard Huyghe
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The project** : building on previous existing classifications, we designed a classification for French verbs bearing a reflexive clitic "se", intended to be precise enough so that we could actually classify corpus occurrences using explicit linguistic tests.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have designed an [annotation guide](https://frenchreflverbs.github.io/annotation/FrenchReflVerbs_guide_annotation.pdf) during a preliminary annotation phase. We then annotated occurrences of verbs bearing a reflexive pronoun "se", extracted from the [French Treebank](http://ftb.linguist.univ-paris-diderot.fr/).
 
-```markdown
-Syntax highlighted code block
+The [resulting corpus](https://frenchreflverbs.github.io/annotation/releases/ftb-900-v1.zip) contains 900 occurrences, annotated into 13 categories.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frenchreflverbs/annotation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
