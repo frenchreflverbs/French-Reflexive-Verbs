@@ -12,6 +12,8 @@ We have designed an [annotation guide](https://frenchreflverbs.github.io/annotat
 ### Resulting corpus
 The [resulting corpus](https://frenchreflverbs.github.io/annotation/releases/ftb-900-v1.zip) contains 900 occurrences, annotated into 13 categories.
 
+It is freely available, under the licence the [LGPL-LR](https://spdx.org/licenses/LGPLLR.html) licence.
+
 ### Reference
 
 If you want more information or use the corpus, please refer to:
