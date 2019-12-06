@@ -12,13 +12,13 @@ We have designed an [annotation guide](https://frenchreflverbs.github.io/French-
 ### Resulting corpus
 The [resulting corpus](https://frenchreflverbs.github.io/French-Reflexive-Verbs/FTBse900_v1.0.zip) contains 900 occurrences, annotated into 13 categories.
 
-It is freely available, under the licence the [LGPL-LR](https://spdx.org/licenses/LGPLLR.html) licence.
+It is freely available, under the [LGPL-LR](https://spdx.org/licenses/LGPLLR.html) licence.
 
 ### Reference
 
-If you want more information or use the corpus, please refer to:
+If you use the corpus or need more information, please refer to:
 
-Barque Lucie, Candito Marie and Huyghe Richard. Classification des verbes pronominaux à l'épreuve d'une annotation en corpus, à paraître dans *Langage*, "Les formes réfléchies du verbe: aspects théoriques et approches empiriques".
+Barque Lucie, Candito Marie and Huyghe Richard, 2019, *La classification des verbes pronominaux à l'épreuve d'une annotation en corpus*, to appear in *Les formes réfléchies du verbe : aspects théoriques et approches empiriques*, *Langage*, 216, dec. 2019. [preprint version](https://frenchreflverbs.github.io/French-Reflexive-Verbs/langage_sev_barque_al_2019_preprint.pdf)
 
 
 
