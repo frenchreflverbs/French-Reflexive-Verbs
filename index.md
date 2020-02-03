@@ -18,7 +18,7 @@ It is freely available, under the [LGPL-LR](https://spdx.org/licenses/LGPLLR.htm
 
 If you use the corpus or need more information, please refer to:
 
-Barque Lucie, Candito Marie and Huyghe Richard, 2019, *La classification des verbes pronominaux à l'épreuve d'une annotation en corpus*, to appear in *Les formes réfléchies du verbe : aspects théoriques et approches empiriques*, *Langage*, 216, dec. 2019. [preprint version](https://frenchreflverbs.github.io/French-Reflexive-Verbs/langage_sev_barque_al_2019_preprint.pdf)
+Barque Lucie, Candito Marie and Huyghe Richard, 2019, *La classification des verbes pronominaux à l'épreuve d'une annotation en corpus*, to appear in *Les formes réfléchies du verbe : aspects théoriques et approches empiriques*, *Langages*, n° 216, dec. 2019. [preprint version](https://frenchreflverbs.github.io/French-Reflexive-Verbs/langage_sev_barque_al_2019_preprint.pdf)
 
 
 
